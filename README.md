@@ -7,9 +7,9 @@
 
 <!-- Profile views & socials -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalkumarmerit&label=Profile+Views&color=00d9ff&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwalkumarmerit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://ujjwalkumarmerit.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ujjwalkumarmerit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalkumar473)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://ujjwalkumar473.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ujjwalkumarmerit)
 
 </div>
 
